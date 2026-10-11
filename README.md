@@ -143,3 +143,4 @@ For each half:
 - ZMK guide on how to add a new shield: https://zmk.dev/docs/development/hardware-integration/new-shield
 - More of my keyboards:
   - shoedler54 - a cheap 54-key wireless split, inspired by the ZSA Voyager: https://github.com/shoedler/shoedler54
+  - ezy54 - A 54-key, column-staggered, wireless split keyboard, inspired by ZSA Voyager and totem: https://github.com/shoedler/ezy54
